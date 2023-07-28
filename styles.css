@@ -1,0 +1,45 @@
+/* TAG SELECTORS */
+
+body {
+  background-color: #D4FAFC;
+}
+
+hr {
+  background-color: #D4FAFC;
+  border-style: dotted none none;
+  /* border-top-style: dotted; */
+  border-color: grey;
+  border-width: 10px;
+  text-align: center;
+  width: 10%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+img {
+  background-color: red;
+  height: 80%;
+  width: 75%;
+}
+
+/* CLASS SELECTORS */
+
+.paneer {
+  background-color: green;
+}
+
+.friedrice {
+  background-color: yellow;
+}
+
+/* ID SELECTORS - ONLY 1 ID CAN EXIST*/
+
+#heading {
+  color: red;
+}
